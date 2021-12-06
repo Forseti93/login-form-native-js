@@ -12,6 +12,7 @@
     margin: auto;
     padding: 30px;
     width: 20%;
+    min-width: 500px;
     display: flex;
     flex-direction: column;
   }
